@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+We demonstrate `useContext` to update the window theme.
+
+[./src/App.js](./src/App.js), [./src/ContextComponent.js](./src/ContextComponent.js), and [./src/ThemeContext.js](./src/ThemeContext.js) serve as a template for future implementations of Context in React.
+
+**Learn useContext In 13 Minutes: https://www.youtube.com/watch?v=5LrDIWkK_Bc**
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
